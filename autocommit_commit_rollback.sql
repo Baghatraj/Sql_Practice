@@ -1,0 +1,3 @@
+-- set autocommit = off ; this will trun off auto commit
+-- commit; this command creates a savepoint 
+-- rollback; this command goes before commit state
